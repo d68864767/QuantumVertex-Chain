@@ -1,0 +1,4 @@
+(net (code 1) (name "/Component_1:Pin_1") (node (ref Component_1) (pin 1)))
+(net (code 2) (name "/Component_1:Pin_2") (node (ref Component_1) (pin 2)))
+(net (code 3) (name "/Component_2:Pin_1") (node (ref Component_2) (pin 1)))
+(net (code 4) (name "/Component_2:Pin_2") (node (ref Component_2) (pin 2)))

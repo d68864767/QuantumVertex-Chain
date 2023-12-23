@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+# Component_1
+#
+$CMP Component_1
+D Description for Component_1
+K Keyword1 Keyword2
+F http://datasheet.url/for/component1
+#
+# Component_2
+#
+$CMP Component_2
+D Description for Component_2
+K Keyword1 Keyword2
+F http://datasheet.url/for/component2
+#
+#End Library Doc
